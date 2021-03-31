@@ -3,6 +3,7 @@ int PIN_LED = 8;
 
 // Andrew Toader - Added my name from Andrew-Branch
 // Zack Benning - Added my name from Zack-Branch
+//Stephen Wagner - Added my name from Stephen-Branch
 
 void setup()
 {
